@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="grade1">Grade 1</string>
+    <string name="grade2">Grade 2</string>
+    <string name="absences">Absences</string>
+    <string name="calculate">Calculate </string>
+</resources>
